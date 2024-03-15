@@ -1,4 +1,4 @@
-# tools-for-data-science
+# IBM Tools for Data Science of Coursera
 
 ## By Kanegonda Ravi Chythanya
 
